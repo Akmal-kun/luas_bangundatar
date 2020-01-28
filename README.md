@@ -1,1 +1,1 @@
-# luas_bangundatar
+Program untuk menghitung luas dan keliling bangundatar
